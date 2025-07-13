@@ -1,0 +1,3 @@
+BMI || Date: 2025.01.01 | Value: 20.000000
+BP || Date: 2025.01.01 | Systolic Value: 120 | Diastolic Value: 80
+Person is ill in month 1

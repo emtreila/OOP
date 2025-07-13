@@ -1,0 +1,7 @@
+John Doe;Heart Attack;Cardiology;Dr. Alice Smith;2025-06-01
+Jane Roe;Fractured Arm;Orthopedics;Dr. Carol White;2025-06-03
+Paul Grey;undiagnosed;;;2025-06-05
+Lisa Black;Migraine;Neurology;Dr. Bob Johnson;2025-06-02
+Emily Green;undiagnosed;;;2025-06-06
+George White;Knee Injury;Orthopedics;Dr. Carol White;2025-06-07
+Anna Blue;Epilepsy;Neurology;Dr. Bob Johnson;2025-06-08

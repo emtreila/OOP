@@ -1,0 +1,3 @@
+Alice;Escherichia coli,Salmonella enterica
+Bob;Bacillus subtilis,Escherichia coli
+Clara;Staphylococcus aureus

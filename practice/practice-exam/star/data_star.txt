@@ -1,0 +1,6 @@
+Star1;Constelatia1;3;5;12
+Star2;Constelatia2;4;6;8
+Star3;Constelatia3;2;7;10
+Star4;Constelatia1;5;3;9
+Star5;Constelatia2;6;4;11mela;Constelatia3;3;12;12;
+aaa;Constelatia3;12;12;22;

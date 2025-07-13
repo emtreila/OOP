@@ -1,0 +1,3 @@
+Maria Popescu;phd student
+Alin George;postdoc
+Alexandru Mihailescu;senior

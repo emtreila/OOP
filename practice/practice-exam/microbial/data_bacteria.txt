@@ -1,0 +1,6 @@
+Ecoli1;Escherichia coli; 2; diarrhea; urinary tract infection
+Ecoli2;Escherichia coli; 3; food poisoning
+Salmonella1;Salmonella enterica; 4; salmonellosis
+Bsub1;Bacillus subtilis; 5; none
+Staph1;Staphylococcus aureus; 1; skin infection; pneumonia
+mela;Staphylococcus aureus;1;ewf

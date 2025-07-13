@@ -1,0 +1,4 @@
+XS,brown,900,90,https://www.zalando.ro/mango-trenci-kaki-m9121u1pv-n11.html
+meka,me,22,22,fwe
+a,a,1,1,a
+b,b,2,2,b

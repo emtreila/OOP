@@ -1,0 +1,3 @@
+Alice;Tech Meetup;A meetup to discuss emerging technologies;10.2;10.2;2025-07-01
+Bob;Book Club;A monthly meeting to discuss books;29.8;30.2;2025-07-05
+Charlie;Coding Contest;A local programming competition;48.8;50.3;2025-07-03

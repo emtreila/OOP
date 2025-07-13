@@ -1,0 +1,5 @@
+C++;programming language;general-purpose programming language
+Quadratic equation;Square root;a*x^2 + b*x + c = 0
+Java;programming language;well suited or use on the World Wide web
+Jack Sparrow;pirate;protagonist in the Pirates of the Caribbean
+University;higher education;Undergraduate and postgraduate education

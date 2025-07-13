@@ -1,0 +1,2 @@
+Refrigerator | 0, Electricity Usage Class: A, Has Freezer: Yes
+DishWasher | Id: 1, Consumed electricity for one hour: 12.000000

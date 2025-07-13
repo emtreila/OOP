@@ -1,0 +1,3 @@
+Surgery | Hospital Name: hospital | Number of Doctors: 5 | Number of Patients: 10 | Efficiency: Efficient
+Neonatal Unit | Hospital Name: hospital | Number of Doctors: 5 | Number of Mothers: 10 | Number of Newborns: 10 | Average Grade: 9.500000
+

@@ -1,0 +1,5 @@
+AI;descriere AI;accepted;Maria Popescu;2;
+Arhitectura;descriere arhitectura;accepted;Alexandru Mihailescu;3;
+Informatica;descriere informatica;accepted;Alin George;3;
+titlu;ceva;accepted;Alin George;0;
+fwer;altcv;proposed;Alin George;0;
